@@ -1,7 +1,1 @@
-# Data Scientist
-
-### Education
-
-### Publication
-
-### Teaching Experience
+I am a PhD student at University of South Carolina, 

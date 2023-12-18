@@ -1,1 +1,1 @@
-I am a PhD student at University of South Carolina, 
+I am a PhD student at University of South Carolina. Focus of my research is on the intersection of representation learning and adversarial robustness. Previously, I did some work on statistical modeling of Internet traffic data.

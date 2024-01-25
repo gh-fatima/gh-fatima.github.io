@@ -1,7 +1,3 @@
----
-layout: default
-title: Fatemeh Ghofrani - Data Scientist & Researcher
----
 
 <div class="row">
   <div class="column left">

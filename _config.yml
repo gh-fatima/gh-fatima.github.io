@@ -7,13 +7,15 @@ description: |
     A machine learning researcher
   </span>
 links:
-  - [LinkedIn](ttp://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/)
-  
+  - title: "LinkedIn"
+    url: "http://www.linkedin.com/in/your-linkedin"
+  - title: "Google Scholar"
+    url: "https://scholar.google.com/citations?user=your-scholar-id"
+  - title: "GitHub"
+    url: "https://github.com/your-github-username"
+  - title: "Email"
+    url: "mailto:your@email.com"
 
-
-
-  
-  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme

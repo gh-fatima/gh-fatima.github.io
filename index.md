@@ -1,17 +1,7 @@
 # Social Links
-social_links:
-  - platform: Email
-    url: mailto:your.email@example.com
-    style: "margin-right: 10px;"  # Add some spacing between links
-  - platform: Scholar
-    url: https://scholar.google.com/citations/your-google-scholar-id
-    style: "margin-right: 10px;"  # Add some spacing between links
-  - platform: GitHub
-    url: https://github.com/your-github-username
-    style: "margin-right: 10px;"  # Add some spacing between links
-  - platform: LinkedIn
-    url: https://www.linkedin.com/in/your-linkedin-username
-    style: "margin-right: 10px;"  # Add some spacing between links
+
+- [Email](mailto:your.email@example.com) | [Scholar](https://scholar.google.com/citations/your-google-scholar-id) | [GitHub](https://github.com/your-github-username) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
+{:.social-links}
 
 # About Me
 about_me: |

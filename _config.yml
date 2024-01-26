@@ -1,4 +1,13 @@
 title: "<span style='font-size: 16px; color: green;'>Hi there!</span>"
+links:
+  - title: Email
+    url: mailto:your.email@example.com
+  - title: Scholar
+    url: https://scholar.google.com/citations/your-google-scholar-id
+  - title: GitHub
+    url: https://github.com/your-github-username
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/your-linkedin-username
 logo: "photo3.png" # your photo (or logo) here
 description: |
   <strong>Fatemeh Ghofrani</strong>  

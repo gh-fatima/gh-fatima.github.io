@@ -2,10 +2,10 @@
 
 <div class="container">
   <div class="left">
-    [Google Scholar](https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao) |
-    [Email](mailto:ghofrani@email.sc.edu) |
-    [GitHub](https://github.com/gh-fatima) |
-    [LinkedIn](http://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/)
+    <a href="https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao">Google Scholar</a> |
+    <a href="mailto:ghofrani@email.sc.edu">Email</a> |
+    <a href="https://github.com/gh-fatima">GitHub</a> |
+    <a href="http://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/">LinkedIn</a>
   </div>
 
   <div class="right">
@@ -21,7 +21,7 @@
       - Thesis title: Fuzzy-Based Medical X-ray Image Classification.
     - B.Sc. Electrical Engineering, Shiraz University, Iran (2003 – 2006)
 
-  
+    <!-- ... Other sections ... -->
 
     ### Teaching Experience
 

@@ -6,14 +6,13 @@ description: |
   <span style="font-size: 12px; color: green; font-family: 'Arial', sans-serif;">
     A machine learning researcher
   </span>
-## Research Interests
-- Self-supervised Learning
-- Model Robustness
-- Computer Vision
-- Statistical Analysis
+research_interests:
+  - Self-supervised Learning
+  - Model Robustness
+  - Computer Vision
+  - Statistical Analysis
 
-  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

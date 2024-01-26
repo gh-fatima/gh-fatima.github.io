@@ -8,15 +8,8 @@ description: |
   </span>
   <br><br><br>
   <span style="font-size: 12px; font-family: 'Arial', sans-serif;">
-email:
-  address: your.email@example.com
-  icon: fas fa-envelope
-  - platform: LinkedIn
-    url: https://www.linkedin.com/in/your-linkedin-username
-  - platform: Google Scholar
-    url: https://scholar.google.com/citations/your-google-scholar-id
-  - platform: GitHub
-    url: https://github.com/your-github-username
+  [Email](ghofrani@email.sc.edu)
+
   
   </span>
 

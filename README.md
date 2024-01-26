@@ -1,33 +1,38 @@
-<div class="container">
-  <div class="left">
-    <a href="https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao">Google Scholar</a> |
-    <a href="mailto:ghofrani@email.sc.edu">Email</a> |
-    <a href="https://github.com/gh-fatima">GitHub</a> |
-    <a href="http://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/">LinkedIn</a>
-  </div>
+# Your Name
 
-  <div class="right">
+[Google Scholar](https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao) | [Email](mailto:ghofrani@email.sc.edu) | [GitHub](https://github.com/gh-fatima) | [LinkedIn](http://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/)
 
-  ## About Me
+## Education
+- Ph.D. Computer Science, University of South Carolina, US (2021 – present)
+- M.Sc. Electrical Engineering, Shiraz University of Technology, Iran (2009 – 2011)
+- B.Sc. Electrical Engineering, Shiraz University, Iran (2003 – 2006)
+  Thesis title: Fuzzy-Based Medical X-ray Image Classification
 
-    Welcome to my homepage! I am a Ph.D. student in Computer Science at the University of South Carolina. Currently, I am exploring the intersection of Representation Learning and Model Robustness in deep learning. You can find my CV [here](link-to-your-cv).
+## Research Interests
+- Machine Learning and Deep Learning
+- Model Robustness, Computer Vision, and Statistical Analysis
 
-  ### Education
+## Research Publications
+1. Ghofrani, F., Yaghouti, M., & Jamshidi, P. (2023). Rethinking robust contrastive learning...
+2. Ghofrani, F., Keshavarz-Haddad, A., & Jamshidi, A. (2018). A new probabilistic classifier...
 
-    - Ph.D. Computer Science, University of South Carolina, US (2021 – now)
-    - M.Sc. Electrical Engineering, Shiraz University of Technology, Iran (2009 – 2011)
-      - Thesis title: Fuzzy-Based Medical X-ray Image Classification.
-    - B.Sc. Electrical Engineering, Shiraz University, Iran (2003 – 2006)
+## Skills
+- Languages: Strong reading, writing, and speaking competencies for English and Persian.
+- Coding: Python, Pytorch, Matlab, LATEX.
 
-    <!-- ... Other sections ... -->
+## Miscellaneous Experience
+### Research Projects
+- **Intersection of Representation Learning and Model Robustness (2021-present):**
+  In our investigation into robust deep learning, we explore the impact of adversarial training...
+- **Statistical Modeling of Internet Traffic Data (2015-2018):**
+  This project delves into internet traffic data analysis using various statistical models...
 
-  ### Teaching Experience
+### Awards and Achievements
+- Ranked 1st among the M.Sc. graduates of Communications Engineering, Shiraz University of Technology, Iran (2011).
+- Ranked 986th (Top 0.2%) among more than 350,000 participants in Nationwide Entrance University Exam (Konkoor) in 2004.
 
-    - **2022:** University of South Carolina, Columbia, US, Instructor for the course Introduction to Computer Concept. (Undergraduate course)
-    - **2021:** University of South Carolina, Columbia, US, Teacher Assistant for the course Algorithm Design. (Undergraduate course)
-    - **2010-2011:** Shiraz University of Technology, Shiraz, Iran, Teacher Assistant for the course Discrete-Time Signal Processing. (Graduate course)
-    - Shiraz University of Technology, Shiraz, Iran, Teacher Assistant for the course Image Processing. (Graduate course)
-    - **2009-2011:** Shiraz University of Technology, Shiraz, Iran, Teacher Assistant for the course Basic Circuit Theory. (Undergraduate course)
-    - Shiraz University of Technology, Shiraz, Iran, Teacher Assistant for the course Signals and Systems. (Undergraduate course)
-  </div>
-</div>
+### Teaching Experience
+- Instructor for the course Introduction to Computer Concept, University of South Carolina, Columbia, US (2022).
+- Teacher Assistant for the course Algorithm Design, University of South Carolina, Columbia, US (2021).
+
+

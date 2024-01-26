@@ -20,7 +20,6 @@
     </p>
 
 
-
     <h2>Teaching Experience</h2>
     <ul>
       <li>2022: University of South Carolina, Columbia, US, Instructor for the course Introduction to Computer Concept. (Undergraduate course)</li>

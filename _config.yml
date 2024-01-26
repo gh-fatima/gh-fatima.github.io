@@ -5,9 +5,11 @@ description: |
   <br>
   <span style="font-size: 12px; color: green; font-family: 'Arial', sans-serif;">
     A machine learning researcher
+  </span>
   <br><br><br>
     Research_interests:
   <br>
+  <span style="font-size: 12px; color: purple; font-family: 'Arial', sans-serif;">
   - Self-supervised Learning
   <br>
   - Model Robustness

@@ -1,21 +1,21 @@
-<div class="row">
-  <div class="column left">
-    <!-- Links -->
-    <a href="https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao">Google Scholar</a> <br>
-    <a href="mailto:ghofrani@email.sc.edu">Email</a> <br>
-    <a href="https://github.com/gh-fatima">GitHub</a> <br>
-    <a href="http://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/">LinkedIn</a>
-  </div>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 20px;">
+  
+  [Google Scholar](https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao) <br>
+  [Email](mailto:ghofrani@email.sc.edu) <br>
+  [GitHub](https://github.com/gh-fatima) <br>
+  [LinkedIn](http://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/)
 
-  <div class="column right">
-    <h2>About Me</h2>
-    <p>
-      Welcome to my homepage! I am a Ph.D. student in Computer Science at the University of South Carolina.
-      Currently, I am exploring the intersection of Representation Learning and Model Robustness in deep learning. You can find my CV <a href="link-to-your-cv">here</a>.
-    </p>
   </div>
-</div>
+  
+  <div style="flex: 1;">
+  
+  ## About Me
 
+  Welcome to my homepage! I am a Ph.D. student in Computer Science at the University of South Carolina.
+  Currently, I am exploring the intersection of Representation Learning and Model Robustness in deep learning. You can find my CV [here](link-to-your-cv).
+
+  </div>
 
     <h2>Research Interests</h2>
     <p>

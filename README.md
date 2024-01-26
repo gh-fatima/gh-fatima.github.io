@@ -9,11 +9,11 @@
 
   <div class="right">
 
-    ## About Me
+  ## About Me
 
     Welcome to my homepage! I am a Ph.D. student in Computer Science at the University of South Carolina. Currently, I am exploring the intersection of Representation Learning and Model Robustness in deep learning. You can find my CV [here](link-to-your-cv).
 
-    ### Education
+  ### Education
 
     - Ph.D. Computer Science, University of South Carolina, US (2021 – now)
     - M.Sc. Electrical Engineering, Shiraz University of Technology, Iran (2009 – 2011)
@@ -22,7 +22,7 @@
 
     <!-- ... Other sections ... -->
 
-    ### Teaching Experience
+  ### Teaching Experience
 
     - **2022:** University of South Carolina, Columbia, US, Instructor for the course Introduction to Computer Concept. (Undergraduate course)
     - **2021:** University of South Carolina, Columbia, US, Teacher Assistant for the course Algorithm Design. (Undergraduate course)

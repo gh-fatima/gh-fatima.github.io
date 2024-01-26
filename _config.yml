@@ -5,12 +5,17 @@ description: |
   <br>
   <span style="font-size: 12px; color: green; font-family: 'Arial', sans-serif;">
     A machine learning researcher
-  </span>
-research_interests:
+  <br><br><br>
+    Research_interests:
+  <br>
   - Self-supervised Learning
+  <br>
   - Model Robustness
+  <br>
   - Computer Vision
+  <br>
   - Statistical Analysis
+  </span>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

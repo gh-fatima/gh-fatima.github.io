@@ -6,6 +6,10 @@ description: |
   <span style="font-size: 12px; color: green; font-family: 'Arial', sans-serif;">
     A machine learning researcher
   </span>
+links:
+  - title: "LinkedIn"
+    url: "http://www.linkedin.com/in/your-linkedin"
+  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme

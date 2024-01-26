@@ -1,8 +1,3 @@
----
-layout: default
-title: Fatemeh Ghofrani - Home
----
-
 <div class="row">
   <div class="column left">
     <!-- Links -->

@@ -21,7 +21,7 @@
       - Thesis title: Fuzzy-Based Medical X-ray Image Classification.
     - B.Sc. Electrical Engineering, Shiraz University, Iran (2003 – 2006)
 
-    <!-- ... Other sections ... -->
+  
 
     ### Teaching Experience
 

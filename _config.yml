@@ -6,15 +6,7 @@ description: |
   <span style="font-size: 12px; color: green; font-family: 'Arial', sans-serif;">
     A machine learning researcher
   </span>
-links:
-  - title: "LinkedIn"
-    url: "http://www.linkedin.com/in/your-linkedin"
-  - title: "Google Scholar"
-    url: "https://scholar.google.com/citations?user=your-scholar-id"
-  - title: "GitHub"
-    url: "https://github.com/your-github-username"
-  - title: "Email"
-    url: "mailto:your@email.com"
+[I'm an inline-style link](https://www.google.com)
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

@@ -1,4 +1,3 @@
-# Fatemeh Ghofrani
 
 <div class="container">
   <div class="left">

@@ -2,8 +2,9 @@ title: "<span style='font-size: 12px; color: green;'>Hello World!</span>"
 logo: "photo3.png" # your photo (or logo) here
 description: |
   **Fatemeh Ghofrani**  
+  <br>
   <span style="font-size: 12px; color: green; font-family: 'Arial', sans-serif;">
-    A machine learning enthusiast and researcher
+    A machine learning researcher
   </span>
   
 links:

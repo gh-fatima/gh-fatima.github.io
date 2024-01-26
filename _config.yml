@@ -7,16 +7,18 @@ description: |
     A machine learning researcher
   </span>
   <br><br><br>
-  <strong>Research_interests:<strong>
+  <strong>Research interests:<strong>
   <br>
   <span style="font-size: 12px; font-family: 'Arial', sans-serif;">
-  - Self-supervised Learning
-  <br>
-  - Model Robustness
-  <br>
-  - Computer Vision
-  <br>
-  - Statistical Analysis
+  links:
+  - platform: LinkedIn
+    url: https://www.linkedin.com/in/your-linkedin-username
+  - platform: Google Scholar
+    url: https://scholar.google.com/citations/your-google-scholar-id
+  - platform: GitHub
+    url: https://github.com/your-github-username
+  - platform: Email
+    address: your.email@example.com
   </span>
 
 remote_theme: pages-themes/minimal@v0.2.0

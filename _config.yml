@@ -1,2 +1,15 @@
-title: Fatemeh Ghofrani
 theme: jekyll-theme-minimal
+
+title: Fatemeh Ghofrani
+
+author:
+  name: Fatemeh Ghofrani
+  email: ghofrani@email.sc.edu
+
+plugins:
+  - jekyll-scholar
+
+scholar:
+  scholar_id: NWOeb_AAAAAJ
+  style: bibtex
+

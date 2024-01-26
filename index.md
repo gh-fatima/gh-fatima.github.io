@@ -10,7 +10,7 @@ Welcome to my homepage! I am Fatemeh Ghofrani, a Ph.D. student in computer scien
 - B.Sc. Electrical Engineering, Shiraz University, Iran (2003 – 2006)
   
 ### Teaching Experience
-- Instructor for the course Introduction to Computer Concept, University of South Carolina, Columbia, US (2022).
-- Teacher Assistant for the course Algorithm Design, University of South Carolina, Columbia, US (2021).
+- Instructor for the course "Introduction to Computer Concept", University of South Carolina, Columbia, US (2022).
+- Teacher Assistant for the course "Algorithm Design", University of South Carolina, Columbia, US (2021).
 <small>
 

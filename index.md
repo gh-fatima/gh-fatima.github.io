@@ -13,5 +13,5 @@ Welcome to my homepage! I'm Fatemeh Ghofrani, a Ph.D. student in Computer Scienc
 - Instructor for the course Introduction to Computer Concept, University of South Carolina, Columbia, US (2022).
 - Teacher Assistant for the course Algorithm Design, University of South Carolina, Columbia, US (2021).
 
-{: style="font-family: 'Your Desired Font', sans-serif; font-size: 16px;"}
+{: style="font-family: 'Your Desired Font', sans-serif; font-size: 14px;"}
 

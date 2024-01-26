@@ -1,6 +1,4 @@
-# Social Links
-
-- [Email](mailto:your.email@example.com) | [Scholar](https://scholar.google.com/citations/your-google-scholar-id) | [GitHub](https://github.com/your-github-username) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
+[Email](mailto:your.email@example.com) | [Scholar](https://scholar.google.com/citations/your-google-scholar-id) | [GitHub](https://github.com/your-github-username) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
 {:.social-links}
 
 # About Me

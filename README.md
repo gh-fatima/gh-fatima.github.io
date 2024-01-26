@@ -1,4 +1,4 @@
-
+<div class="left">
 <div class="container">
   <div class="left">
     <a href="https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao">Google Scholar</a> |

@@ -1,6 +1,4 @@
 
-[Google Scholar](https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao) | [Email](mailto:ghofrani@email.sc.edu) | [GitHub](https://github.com/gh-fatima) | [LinkedIn](http://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/)
-
 ## Education
 
 - Ph.D. Computer Science, University of South Carolina, US (2021 – now)

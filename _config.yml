@@ -1,9 +1,18 @@
 theme: jekyll-theme-minimal
-title: Fatemeh Ghofrani
-[![Google Scholar](https://img.icons8.com/ios-filled/50/000000/google-scholar.png)](https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao)
-[![Email](https://img.icons8.com/ios-filled/50/000000/email.png)](mailto:ghofrani@email.sc.edu)
-[![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/gh-fatima)
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](http://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/)
-description: A brief description about you
+name: Fatemeh Ghofrani
+description:
+links:
+  - name: Google Scholar
+    icon: https://img.icons8.com/ios-filled/50/000000/google-scholar.png
+    url: https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao
+  - name: Email
+    icon: https://img.icons8.com/ios-filled/50/000000/email.png
+    url: mailto:ghofrani@email.sc.edu
+  - name: GitHub
+    icon: https://img.icons8.com/ios-filled/50/000000/github.png
+    url: https://github.com/gh-fatima
+  - name: LinkedIn
+    icon: https://img.icons8.com/ios-filled/50/000000/linkedin.png
+    url: http://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/
 
 

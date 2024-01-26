@@ -6,8 +6,6 @@ description: |
   <span style="font-size: 12px; color: green; font-family: 'Arial', sans-serif;">
     A machine learning researcher
   </span>
-[I'm an inline-style link](https://www.google.com)
-
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme

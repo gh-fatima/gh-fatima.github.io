@@ -1,35 +1,16 @@
-## Portfolio
+# About Me
+Welcome to my homepage! I'm Fatemeh Ghofrani, a Ph.D. student in Computer Science at the University of South Carolina. My journey in machine learning started during my M.Sc. at Shiraz University of Technology, where I focused on automating medical X-ray image classification using innovative methods like Gabor-based CS-local binary patterns and fuzzy-based classifiers. Later, I delved into Internet traffic data analysis, contributing to the field with Bayesian networks and a novel decomposable model. Currently, at the University of South Carolina, I'm dedicated to developing robust machine learning algorithms, with a strong interest in representation learning, adversarial robustness, and explainability.
 
----
+ 
+## Research Interests
+- Self-supervised Learning, Model Robustness, Computer Vision, and Statistical Analysis
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+## Education
+- Ph.D. Computer Science, University of South Carolina, US (2021 – present)
+- M.Sc. Electrical Engineering, Shiraz University of Technology, Iran (2009 – 2011)
+- B.Sc. Electrical Engineering, Shiraz University, Iran (2003 – 2006)
+  Thesis title: Fuzzy-Based Medical X-ray Image Classification
+  
+### Teaching Experience
+- Instructor for the course Introduction to Computer Concept, University of South Carolina, Columbia, US (2022).
+- Teacher Assistant for the course Algorithm Design, University of South Carolina, Columbia, US (2021).

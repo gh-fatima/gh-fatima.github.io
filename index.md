@@ -1,5 +1,5 @@
 <a href="mailto:ghofrani@email.sc.edu" style="font-size: 20px; color: green; text-decoration: none;">Email</a> | 
-<a href="https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao" style="font-size: 20px; color: green; text-decoration: none;">Scholar</a> | 
+<a href="https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao" style="font-size: 20px; color: green; text-decoration: none;">Google Scholar</a> | 
 <a href="https://github.com/gh-fatima" style="font-size: 20px; color: green; text-decoration: none;">GitHub</a>
 
 <small>

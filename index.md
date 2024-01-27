@@ -1,6 +1,6 @@
-<a href="mailto:ghofrani@email.sc.edu" style="font-size: 18px; color: green; text-decoration: none;">Email</a> | 
-<a href="http://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/" style="font-size: 18px; color: green; text-decoration: none;">LinkedIn</a> | 
-<a href="https://github.com/gh-fatima" style="font-size: 18px; color: green; text-decoration: none;">GitHub</a>
+<a href="mailto:ghofrani@email.sc.edu" style="font-size: 16px; color: green; text-decoration: none;">Email</a> | 
+<a href="http://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/" style="font-size: 16px; color: green; text-decoration: none;">LinkedIn</a> | 
+<a href="https://github.com/gh-fatima" style="font-size: 16px; color: green; text-decoration: none;">GitHub</a>
 
 <small>
 ### About Me

@@ -4,7 +4,7 @@
 
 <small>
 ### About Me
-Welcome to my homepage! I'm Fatemeh Ghofrani, a Ph.D. student in computer science at the University of South Carolina.
+Welcome to my homepage! I'm Fatemeh Ghofrani, a Ph.D. student in computer science at University of South Carolina.
 <br>
 During my M.Sc. at Shiraz University of Technology, I specialized in automating medical X-ray image classification. I explored techniques like Gabor-based CS-local binary patterns and fuzzy-based classifiers.
 <br>

@@ -1,4 +1,9 @@
 [Email](mailto:ghofrani@email.sc.edu) | [Scholar](https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao) | [GitHub](https://github.com/gh-fatima) |
+
+<a href="mailto:ghofrani@email.sc.edu" style="font-size: 16px; color: green; text-decoration: none;">Email</a> | 
+<a href="https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao" style="font-size: 16px; color: green; text-decoration: none;">Scholar</a> | 
+<a href="https://github.com/gh-fatima" style="font-size: 16px; color: green; text-decoration: none;">GitHub</a>
+
 <small>
 ### About Me
 Welcome to my homepage! I am Fatemeh Ghofrani, a Ph.D. student in computer science at the University of South Carolina. My journey in machine learning started during my M.Sc. at Shiraz University of Technology, where I focused on automating medical X-ray image classification using innovative methods like Gabor-based CS-local binary patterns and fuzzy-based classifiers. Later, I delved into Internet traffic data analysis, contributing to the field with Bayesian networks and a novel decomposable model. Currently, I am dedicated to developing robust machine learning algorithms, with a strong interest in representation learning, adversarial robustness, and explainability.

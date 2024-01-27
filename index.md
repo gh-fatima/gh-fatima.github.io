@@ -4,7 +4,13 @@
 
 <small>
 ### About Me
-Welcome to my homepage! I am Fatemeh Ghofrani, a Ph.D. student in computer science at the University of South Carolina. My journey in machine learning started during my M.Sc. at Shiraz University of Technology, where I focused on automating medical X-ray image classification using innovative methods like Gabor-based CS-local binary patterns and fuzzy-based classifiers. Later, I delved into Internet traffic data analysis, contributing to the field with Bayesian networks and a novel decomposable model. Currently, I am dedicated to developing robust machine learning algorithms, with a strong interest in representation learning, adversarial robustness, and explainability.
+Welcome to my homepage! I'm Fatemeh Ghofrani, a Ph.D. student in computer science at the University of South Carolina.
+<br>
+During my M.Sc. at Shiraz University of Technology, I specialized in automating medical X-ray image classification. I explored techniques like Gabor-based CS-local binary patterns and fuzzy-based classifiers.
+<br>
+Moving on, I shifted my focus to Internet traffic data analysis, contributing to the field with Bayesian networks and a decomposable model.
+<br>
+Currently, my work centers around developing robust machine learning algorithms. I'm particularly interested in representation learning, adversarial robustness, and AI explainability for deep learning. You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao) <img src="path-to-your-scholar-icon-image" alt="Google Scholar Icon" width="20" height="20">.
 
 ### Education
 - Ph.D. Computer Science, University of South Carolina, US (2021 – present)
@@ -15,5 +21,6 @@ Welcome to my homepage! I am Fatemeh Ghofrani, a Ph.D. student in computer scien
 ### Teaching Experience
 - Instructor for the course "Introduction to Computer Concept", University of South Carolina, Columbia, US (2022).
 - Teacher Assistant for the course "Algorithm Design", University of South Carolina, Columbia, US (2021).
+- - Teacher Assistant for the courses "Image Processing, Discrete Time Signal Processing", Shiraz University of Technology, Shiraz, Iran (2009-2011).
 <small>
 

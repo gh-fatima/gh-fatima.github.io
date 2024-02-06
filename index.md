@@ -13,7 +13,7 @@ Moving on, I shifted my focus to Internet traffic data analysis, contributing to
 Currently, my work centers around developing robust machine learning algorithms. I'm particularly interested in representation learning, adversarial robustness, and AI explainability for deep learning. You can find my publications on <a href="https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao" style="color: green;">Google Scholar</a>.
 
 
-<a href="publications.html" style="font-size: 16px; color: green; text-decoration: none;">Selected Publications</a>
+<a href="publications.html" style="font-size: 18px; color: green; text-decoration: none;">Research Projects</a>
 
 ### Education
 - Ph.D. Computer Science, University of South Carolina, US (2021 – present)

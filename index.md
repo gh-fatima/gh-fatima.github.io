@@ -10,7 +10,7 @@ Welcome to my homepage! I'm Fatemeh Ghofrani, currently pursuing my Ph.D. in com
 ### Education
 - Ph.D. Computer Science, University of South Carolina, US (2021 – present)
 - M.Sc. Electrical Engineering, Shiraz University of Technology, Iran (2009 – 2011)
--- Thesis title: Fuzzy-Based Medical X-ray Image Classification
+  - Thesis title: Fuzzy-Based Medical X-ray Image Classification
 - B.Sc. Electrical Engineering, Shiraz University, Iran (2003 – 2006)
   
 ### Teaching Experience

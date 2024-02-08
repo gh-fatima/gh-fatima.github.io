@@ -5,34 +5,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Research Projects</title>
     <style>
-        .research-project {
-            margin-bottom: 20px;
-        }
-        .research-project h2 {
-            margin-bottom: 10px;
-        }
-        .project-section {
-            display: flex;
-            flex-wrap: wrap;
-        }
-        .project-section > div {
-            flex: 1;
-            margin-right: 70px;
-        }
-        .project-section img {
-            max-width: 100%;
-            height: auto;
-        }
-        /* Adjust width of summary */
-        .project-section > div:nth-child(2) {
-            flex: 2;
-        }
-        /* Align links vertically */
-        .project-section .links {
-            display: flex;
-            flex-direction: column;
-        }
-    </style>
+    .research-project {
+        margin-bottom: 40px; /* Increase the margin between research projects */
+    }
+    .research-project h2 {
+        margin-bottom: 10px;
+    }
+    .project-section {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .project-section > div {
+        flex: 1;
+        margin-right: 20px; /* Larger margin for summary and image */
+    }
+    .project-section > div:last-child {
+        margin-right: 10px; /* Smaller margin for related links */
+    }
+    .project-section img {
+        max-width: 100%;
+        height: auto;
+    }
+    /* Adjust width of summary */
+    .project-section > div:nth-child(2) {
+        flex: 2;
+    }
+    /* Align links vertically */
+    .project-section .links {
+        display: flex;
+        flex-direction: column;
+    }
+</style>
 </head>
 <body>
     <!-- Research Project 1 -->

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Research Projects</title>
-    <style>
+   <style>
     .research-project {
         margin-bottom: 40px; /* Increase the margin between research projects */
     }
@@ -16,19 +16,22 @@
         flex-wrap: wrap;
     }
     .project-section > div {
-        flex: 1;
-        margin-right: 50px; /* Larger margin for summary and image */
+        flex-shrink: 0;
+        margin-right: 2%; /* 2% space between blocks */
+    }
+    .project-section > div:first-child {
+        flex-basis: 35%; /* 5 units for figure (5/18 * 100) */
+    }
+    .project-section > div:nth-child(2) {
+        flex-basis: 40%; /* 6 units for summary (6/18 * 100) */
     }
     .project-section > div:last-child {
-        margin-right: 10px; /* Smaller margin for related links */
+        flex-basis: 20%; /* 2 units for links (2/18 * 100) */
+        margin-right: 0; /* No margin for links */
     }
     .project-section img {
         max-width: 100%;
         height: auto;
-    }
-    /* Adjust width of summary */
-    .project-section > div:nth-child(2) {
-        flex: 2;
     }
     /* Align links vertically */
     .project-section .links {

@@ -50,6 +50,27 @@
     .summary-text {
         line-height: 1.6; /* Adjust line height */
     }
+    /* Styling for graphical shapes */
+    .links p {
+        margin: 5px 0;
+    }
+    .links p a {
+        display: block;
+        width: 30px; /* Width of the graphical shape */
+        height: 30px; /* Height of the graphical shape */
+        background-size: cover;
+        text-indent: -9999px; /* Hide the text */
+    }
+    /* Background images for the shapes */
+    .links p a[href="https://openreview.net/pdf?id=CKaYiusGXx"] {
+        background-image: url('paper_icon.png');
+    }
+    .links p a[href="https://github.com/softsys4ai/CL-Robustness"] {
+        background-image: url('github_icon.png');
+    }
+    .links p a[href="https://pooyanjamshidi.github.io/resources/papers/contrastive-empirical.pdf"] {
+        background-image: url('poster_icon.png');
+    }
 </style>
 </head>
 <body>

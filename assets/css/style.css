@@ -423,24 +423,23 @@ a:hover {
 }
 
 .intro-section h1 {
-  margin: 0 0 24px;
-
+  margin: 0 0 16px;
   color: var(--heading);
-  font-size: clamp(48px, 7vw, 76px);
+  font-size: clamp(36px, 5vw, 52px);
   font-weight: 700;
-  line-height: 1.02;
-  letter-spacing: -0.05em;
+  line-height: 1.1;
+  letter-spacing: -0.035em;
 }
 
 .intro-title {
-  max-width: 780px;
-  margin: 0 0 25px;
+  max-width: 760px;
+  margin: 0 0 22px;
 
   color: #334155;
-  font-size: clamp(25px, 3vw, 34px);
+  font-size: clamp(20px, 2.5vw, 25px);
   font-weight: 500;
-  line-height: 1.35;
-  letter-spacing: -0.025em;
+  line-height: 1.45;
+  letter-spacing: -0.015em;
 }
 
 .intro-text {
@@ -675,12 +674,12 @@ a:hover {
   }
 
   .intro-section h1 {
-    font-size: 48px;
-  }
+  font-size: 36px;
+ }
 
-  .intro-title {
-    font-size: 25px;
-  }
+.intro-title {
+  font-size: 20px;
+ }
 
   .portfolio-section {
     padding: 65px 0;

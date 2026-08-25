@@ -4,7 +4,7 @@ I'm Fatemeh Ghofrani, a Ph.D. candidate in Computer Science at the University of
 
 My research explores the robustness and behavior of modern deep learning models, including vision and vision-language models, as well as methods for learning robust and efficient visual representations. My broader experience includes image segmentation, object detection, medical image classification, and statistical data analysis.
 
-### Areas of Expertise
+<h3 id="expertise">Areas of Expertise</h3>
 
 - Computer Vision
 - Deep Learning
@@ -16,7 +16,7 @@ My research explores the robustness and behavior of modern deep learning models,
 - Object Detection
 - AI Explainability
 
-### Technical Skills
+<h3 id="skills">Technical Skills</h3>
 
 **Programming:** Python
 

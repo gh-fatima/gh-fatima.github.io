@@ -1,21 +1,56 @@
-<a href="publications.html" style="font-size: 14px; color: green; text-decoration: none;">Research Projects</a> |
-<a href="https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao" style="font-size: 14px; color: green;">Google Scholar</a> |
-<a href="http://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/" style="font-size: 14px; color: green; text-decoration: none;">LinkedIn</a> | 
+<a href="publications.html" style="font-size: 14px; color: green; text-decoration: none;">Research & Publications</a> |
+<a href="https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao" style="font-size: 14px; color: green; text-decoration: none;">Google Scholar</a> |
+<a href="https://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/" style="font-size: 14px; color: green; text-decoration: none;">LinkedIn</a> |
 <a href="https://github.com/gh-fatima" style="font-size: 14px; color: green; text-decoration: none;">GitHub</a> |
-<a href="mailto:ghofrani_fatemeh@yahoo.com" style="font-size: 14px; color: green; text-decoration: none;">Email</a>  
-<small>
+<a href="mailto:ghofrani_fatemeh@yahoo.com" style="font-size: 14px; color: green; text-decoration: none;">Email</a>
+
 ### About Me
-Welcome to my homepage! I'm Fatemeh Ghofrani, currently pursuing my Ph.D. in computer science at the University of South Carolina. My interests revolve around representation learning, adversarial robustness, and AI explainability in deep learning. Before my doctoral studies, I worked on projects involving statistical analysis of internet traffic data and supervised medical X-ray image classification. These experiences have fueled my passion for exploring new frontiers in computer science.
+
+I'm Fatemeh Ghofrani, a Ph.D. candidate in Computer Science at the University of South Carolina. My work focuses on machine learning and computer vision, with particular interests in representation learning, self-supervised learning, adversarial robustness, multimodal learning, and AI explainability.
+
+My research explores the robustness and behavior of modern deep learning models, including vision and vision-language models, as well as methods for learning robust and efficient visual representations. My broader experience includes image segmentation, object detection, medical image classification, and statistical data analysis.
+
+### Areas of Expertise
+
+- Computer Vision
+- Deep Learning
+- Representation Learning
+- Self-Supervised Learning
+- Adversarial Robustness & Adversarial Training
+- Multimodal & Vision-Language Models
+- Image Segmentation
+- Object Detection
+- AI Explainability
+
+### Technical Skills
+
+**Programming:** Python
+
+**Machine Learning & Deep Learning:** PyTorch, Scikit-learn, Self-Supervised Learning, Representation Learning, Adversarial Training, Adversarial Attacks
+
+**Computer Vision:** Image Classification, Image Segmentation, Object Detection, Medical Imaging
+
+**Models & Architectures:** CNNs, Transformers, Vision Transformers (ViTs), CLIP, SigLIP, Segment Anything Model (SAM)
+
+**Data & Scientific Computing:** NumPy, Pandas, Matplotlib, Statistical Analysis, Data Visualization
+
+**Tools & Computing:** Git, GitHub, Linux, CUDA, Jupyter, LaTeX
+
+### Research Interests
+
+My current research interests include robust and efficient machine learning, self-supervised representation learning, adversarial robustness, computer vision, and multimodal AI. I am particularly interested in understanding the representations learned by modern vision and vision-language models and developing methods to improve their robustness and reliability.
+
+[**View my research projects and publications →**](publications.html)
 
 ### Education
-- Ph.D. Computer Science, University of South Carolina, US (2021 – present)
-- M.Sc. Electrical Engineering, Shiraz University of Technology, Iran (2009 – 2011)
-  - Thesis title: Fuzzy-Based Medical X-ray Image Classification
-- B.Sc. Electrical Engineering, Shiraz University, Iran (2003 – 2009)
-  
-### Teaching Experience
-- Instructor for the course "Introduction to Computer Concept", University of South Carolina, Columbia, US (2022-now).
-- Teacher Assistant for the course "Algorithm Design", University of South Carolina, Columbia, US (2021).
-- Teacher Assistant for the courses "Image Processing, Discrete Time Signal Processing", Shiraz University of Technology, Shiraz, Iran (2009-2011).
-<small>
 
+- **Ph.D. in Computer Science**, University of South Carolina, US (2021 – Present)
+- **M.Sc. in Electrical Engineering**, Shiraz University of Technology, Iran (2009 – 2011)
+  - Thesis: *Fuzzy-Based Medical X-ray Image Classification*
+- **B.Sc. in Electrical Engineering**, Shiraz University, Iran (2003 – 2009)
+
+### Teaching Experience
+
+- Instructor, *Introduction to Computer Concepts*, University of South Carolina (2022 – Present)
+- Teaching Assistant, *Algorithm Design*, University of South Carolina (2021)
+- Teaching Assistant, *Image Processing* and *Discrete-Time Signal Processing*, Shiraz University of Technology (2009 – 2011)

@@ -1,9 +1,3 @@
-<a href="publications.html" style="font-size: 14px; color: green; text-decoration: none;">Research & Publications</a> |
-<a href="https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao" style="font-size: 14px; color: green; text-decoration: none;">Google Scholar</a> |
-<a href="https://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/" style="font-size: 14px; color: green; text-decoration: none;">LinkedIn</a> |
-<a href="https://github.com/gh-fatima" style="font-size: 14px; color: green; text-decoration: none;">GitHub</a> |
-<a href="mailto:ghofrani_fatemeh@yahoo.com" style="font-size: 14px; color: green; text-decoration: none;">Email</a>
-
 ### About Me
 
 I'm Fatemeh Ghofrani, a Ph.D. candidate in Computer Science at the University of South Carolina. My work focuses on machine learning and computer vision, with particular interests in representation learning, self-supervised learning, adversarial robustness, multimodal learning, and AI explainability.

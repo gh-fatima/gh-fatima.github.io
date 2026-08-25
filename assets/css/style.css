@@ -413,3 +413,300 @@ a:hover {
     padding: 25px 20px;
   }
 }
+/* =========================================================
+   Portfolio homepage
+   ========================================================= */
+
+.intro-section {
+  max-width: 900px;
+  padding: 110px 0 100px;
+}
+
+.intro-section h1 {
+  margin: 0 0 24px;
+
+  color: var(--heading);
+  font-size: clamp(48px, 7vw, 76px);
+  font-weight: 700;
+  line-height: 1.02;
+  letter-spacing: -0.05em;
+}
+
+.intro-title {
+  max-width: 780px;
+  margin: 0 0 25px;
+
+  color: #334155;
+  font-size: clamp(25px, 3vw, 34px);
+  font-weight: 500;
+  line-height: 1.35;
+  letter-spacing: -0.025em;
+}
+
+.intro-text {
+  max-width: 760px;
+
+  color: var(--muted);
+  font-size: 17px;
+  line-height: 1.85;
+}
+
+
+/* Sections */
+
+.portfolio-section {
+  padding: 90px 0;
+  border-top: 1px solid var(--border);
+}
+
+.section-label {
+  margin: 0 0 40px;
+
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+}
+
+
+/* Expertise cards */
+
+.expertise-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.expertise-card {
+  min-height: 245px;
+  padding: 30px;
+
+  background: var(--surface);
+
+  border: 1px solid var(--border);
+  border-radius: 14px;
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.expertise-card:hover {
+  transform: translateY(-4px);
+  border-color: #cbd5e1;
+
+  box-shadow:
+    0 15px 35px rgba(15, 23, 42, 0.07);
+}
+
+.card-number {
+  display: block;
+  margin-bottom: 38px;
+
+  color: #94a3b8;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.expertise-card h3 {
+  margin: 0 0 13px;
+
+  color: var(--heading);
+  font-size: 22px;
+  letter-spacing: -0.025em;
+}
+
+.expertise-card p {
+  margin: 0;
+
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.75;
+}
+
+
+/* Research */
+
+.research-item {
+  display: grid;
+  grid-template-columns: 70px 1fr;
+  gap: 30px;
+
+  padding: 42px 0;
+
+  border-top: 1px solid var(--border);
+}
+
+.research-item:last-of-type {
+  border-bottom: 1px solid var(--border);
+}
+
+.research-number {
+  padding-top: 5px;
+
+  color: #94a3b8;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.research-content h2 {
+  margin: 0 0 14px;
+
+  color: var(--heading);
+  font-size: 25px;
+  font-weight: 650;
+  letter-spacing: -0.025em;
+}
+
+.research-content p {
+  max-width: 730px;
+  margin: 0 0 20px;
+
+  color: var(--muted);
+  font-size: 15px;
+  line-height: 1.8;
+}
+
+
+/* Tags */
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.tags span,
+.technology-grid span {
+  background: #f1f5f9;
+
+  border: 1px solid #e2e8f0;
+  border-radius: 7px;
+
+  color: #475569;
+
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.tags span {
+  padding: 5px 10px;
+}
+
+.research-link {
+  margin-top: 30px;
+}
+
+.research-link a {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+
+/* Technologies */
+
+.technology-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 12px;
+}
+
+.technology-grid span {
+  padding: 13px 15px;
+
+  background: var(--surface);
+
+  text-align: center;
+
+  transition:
+    border-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.technology-grid span:hover {
+  border-color: #94a3b8;
+  transform: translateY(-2px);
+}
+
+
+/* Closing section */
+
+.closing-section {
+  margin-top: 10px;
+  padding: 85px 0 100px;
+
+  border-top: 1px solid var(--border);
+
+  text-align: center;
+}
+
+.closing-section p {
+  margin: 0;
+
+  color: #475569;
+  font-size: 20px;
+  line-height: 1.7;
+}
+
+.closing-links {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+
+  margin-top: 28px;
+}
+
+.closing-links a {
+  color: var(--accent);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+
+/* =========================================================
+   Portfolio mobile
+   ========================================================= */
+
+@media (max-width: 800px) {
+
+  .intro-section {
+    padding: 75px 0 70px;
+  }
+
+  .intro-section h1 {
+    font-size: 48px;
+  }
+
+  .intro-title {
+    font-size: 25px;
+  }
+
+  .portfolio-section {
+    padding: 65px 0;
+  }
+
+  .expertise-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .expertise-card {
+    min-height: auto;
+  }
+
+  .card-number {
+    margin-bottom: 22px;
+  }
+
+  .research-item {
+    grid-template-columns: 1fr;
+    gap: 10px;
+
+    padding: 35px 0;
+  }
+
+  .technology-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+}

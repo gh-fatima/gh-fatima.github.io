@@ -138,10 +138,6 @@ more robust and efficient.
 
 </div>
 
-<div class="research-link">
-  <a href="publications.html">View research & publications →</a>
-</div>
-
 </section>
 
 
@@ -176,23 +172,3 @@ more robust and efficient.
 </section>
 
 
-<section class="closing-section">
-
-<p>
-Currently pursuing a <strong>Ph.D. in Computer Science</strong><br>
-at the University of South Carolina.
-</p>
-
-<div class="closing-links">
-
-  <a href="https://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/"
-     target="_blank">LinkedIn</a>
-
-  <a href="mailto:ghofrani_fatemeh@yahoo.com">Email</a>
-
-  <a href="https://github.com/gh-fatima"
-     target="_blank">GitHub</a>
-
-</div>
-
-</section>

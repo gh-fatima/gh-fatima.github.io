@@ -1,50 +1,198 @@
-### About Me
+<section class="intro-section">
 
-I'm Fatemeh Ghofrani, a Ph.D. candidate in Computer Science at the University of South Carolina. My work focuses on machine learning and computer vision, with particular interests in representation learning, self-supervised learning, adversarial robustness, multimodal learning, and AI explainability.
+<h1>Fatemeh Ghofrani</h1>
 
-My research explores the robustness and behavior of modern deep learning models, including vision and vision-language models, as well as methods for learning robust and efficient visual representations. My broader experience includes image segmentation, object detection, medical image classification, and statistical data analysis.
+<p class="intro-title">
+Machine Learning Researcher building robust and reliable visual intelligence.
+</p>
 
-<h3 id="expertise">Areas of Expertise</h3>
+<p class="intro-text">
+My work sits at the intersection of <strong>computer vision</strong>,
+<strong>representation learning</strong>, <strong>adversarial robustness</strong>,
+and <strong>multimodal AI</strong>. I study how modern learning systems
+represent visual information, where they fail, and how we can make them
+more robust and efficient.
+</p>
 
-- Computer Vision
-- Deep Learning
-- Representation Learning
-- Self-Supervised Learning
-- Adversarial Robustness & Adversarial Training
-- Multimodal & Vision-Language Models
-- Image Segmentation
-- Object Detection
-- AI Explainability
+<div class="hero-buttons">
+  <a class="button primary" href="publications.html">Explore My Research</a>
 
-<h3 id="skills">Technical Skills</h3>
+  <a class="button secondary"
+     href="https://scholar.google.com/citations?user=NWOeb_AAAAAJ&hl=en&oi=ao"
+     target="_blank">Google Scholar</a>
 
-**Programming:** Python
+  <a class="button secondary"
+     href="https://github.com/gh-fatima"
+     target="_blank">GitHub</a>
+</div>
 
-**Machine Learning & Deep Learning:** PyTorch, Scikit-learn, Self-Supervised Learning, Representation Learning, Adversarial Training, Adversarial Attacks
+</section>
 
-**Computer Vision:** Image Classification, Image Segmentation, Object Detection, Medical Imaging
 
-**Models & Architectures:** CNNs, Transformers, Vision Transformers (ViTs), CLIP, SigLIP, Segment Anything Model (SAM)
+<section class="portfolio-section">
 
-**Data & Scientific Computing:** NumPy, Pandas, Matplotlib, Statistical Analysis, Data Visualization
+<p class="section-label">WHAT I WORK ON</p>
 
-**Tools & Computing:** Git, GitHub, Linux, CUDA, Jupyter, LaTeX
+<div class="expertise-grid">
 
-### Research Interests
+  <div class="expertise-card">
+    <span class="card-number">01</span>
+    <h3>Robust ML</h3>
+    <p>
+      Understanding model vulnerabilities and developing robust
+      representations through adversarial learning and training.
+    </p>
+  </div>
 
-My current research interests include robust and efficient machine learning, self-supervised representation learning, adversarial robustness, computer vision, and multimodal AI. I am particularly interested in understanding the representations learned by modern vision and vision-language models and developing methods to improve their robustness and reliability.
+  <div class="expertise-card">
+    <span class="card-number">02</span>
+    <h3>Computer Vision</h3>
+    <p>
+      Learning and analyzing visual representations across classification,
+      segmentation, object detection, and related vision tasks.
+    </p>
+  </div>
 
-[**View my research projects and publications →**](publications.html)
+  <div class="expertise-card">
+    <span class="card-number">03</span>
+    <h3>Multimodal AI</h3>
+    <p>
+      Studying representations, behavior, and robustness in modern
+      vision-language models.
+    </p>
+  </div>
 
-### Education
+</div>
 
-- **Ph.D. in Computer Science**, University of South Carolina, US (2021 – Present)
-- **M.Sc. in Electrical Engineering**, Shiraz University of Technology, Iran (2009 – 2011)
-  - Thesis: *Fuzzy-Based Medical X-ray Image Classification*
-- **B.Sc. in Electrical Engineering**, Shiraz University, Iran (2003 – 2009)
+</section>
 
-### Teaching Experience
 
-- Instructor, *Introduction to Computer Concepts*, University of South Carolina (2022 – Present)
-- Teaching Assistant, *Algorithm Design*, University of South Carolina (2021)
-- Teaching Assistant, *Image Processing* and *Discrete-Time Signal Processing*, Shiraz University of Technology (2009 – 2011)
+<section class="portfolio-section">
+
+<p class="section-label">SELECTED RESEARCH</p>
+
+<div class="research-item">
+
+  <div class="research-number">01</div>
+
+  <div class="research-content">
+    <h2>Robust Self-Supervised Learning</h2>
+
+    <p>
+      Developing efficient approaches for learning robust visual
+      representations through self-supervised and adversarial learning.
+    </p>
+
+    <div class="tags">
+      <span>Self-Supervised Learning</span>
+      <span>Adversarial Robustness</span>
+      <span>PyTorch</span>
+    </div>
+  </div>
+
+</div>
+
+
+<div class="research-item">
+
+  <div class="research-number">02</div>
+
+  <div class="research-content">
+    <h2>Understanding Vision-Language Models</h2>
+
+    <p>
+      Investigating learned representations and vulnerabilities in
+      modern vision-language models, including CLIP and SigLIP.
+    </p>
+
+    <div class="tags">
+      <span>CLIP</span>
+      <span>SigLIP</span>
+      <span>Multimodal AI</span>
+      <span>Adversarial Attacks</span>
+    </div>
+  </div>
+
+</div>
+
+
+<div class="research-item">
+
+  <div class="research-number">03</div>
+
+  <div class="research-content">
+    <h2>Visual Recognition & Segmentation</h2>
+
+    <p>
+      Experience with image classification, segmentation, object detection,
+      and visual representation learning across research applications.
+    </p>
+
+    <div class="tags">
+      <span>SAM</span>
+      <span>Vision Transformers</span>
+      <span>Segmentation</span>
+      <span>Object Detection</span>
+    </div>
+  </div>
+
+</div>
+
+<div class="research-link">
+  <a href="publications.html">View research & publications →</a>
+</div>
+
+</section>
+
+
+<section class="portfolio-section">
+
+<p class="section-label">TECHNOLOGIES I WORK WITH</p>
+
+<div class="technology-grid">
+
+  <span>Python</span>
+  <span>PyTorch</span>
+  <span>Scikit-learn</span>
+
+  <span>CLIP</span>
+  <span>SigLIP</span>
+  <span>SAM</span>
+
+  <span>CNNs</span>
+  <span>Vision Transformers</span>
+  <span>Transformers</span>
+
+  <span>NumPy</span>
+  <span>Pandas</span>
+  <span>CUDA</span>
+
+  <span>Git</span>
+  <span>Linux</span>
+  <span>LaTeX</span>
+
+</div>
+
+</section>
+
+
+<section class="closing-section">
+
+<p>
+Currently pursuing a <strong>Ph.D. in Computer Science</strong><br>
+at the University of South Carolina.
+</p>
+
+<div class="closing-links">
+
+  <a href="https://www.linkedin.com/in/fatemeh-ghofrani-a0331b7a/"
+     target="_blank">LinkedIn</a>
+
+  <a href="mailto:ghofrani_fatemeh@yahoo.com">Email</a>
+
+  <a href="https://github.com/gh-fatima"
+     target="_blank">GitHub</a>
+
+</div>
+
+</section>

@@ -58,7 +58,7 @@ a:hover {
 .nav-container {
   max-width: var(--max-width);
   margin: auto;
-  padding: 18px 28px;
+  padding: 18px 50px;
 
   display: flex;
   align-items: center;
@@ -100,7 +100,7 @@ a:hover {
 .page-container {
   max-width: var(--max-width);
   margin: auto;
-  padding: 0 28px;
+  padding: 0 50px;
 }
 
 
@@ -313,8 +313,7 @@ a:hover {
 .site-footer {
   max-width: var(--max-width);
   margin: auto;
-
-  padding: 28px;
+  padding: 28px 50px;
 
   border-top: 1px solid var(--border);
 
@@ -345,14 +344,18 @@ a:hover {
    ========================================================= */
 
 @media (max-width: 800px) {
+  .page-container {
+    padding: 0 20px;
+  }
 
   .nav-container {
     padding: 15px 20px;
   }
 
-  .navigation {
-    gap: 15px;
+  .site-footer {
+    padding: 25px 20px;
   }
+}
 
   .navigation a:nth-child(2),
   .navigation a:nth-child(3),
